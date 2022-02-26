@@ -1,0 +1,54 @@
+{
+  "titles": [
+    {
+      "Name": "Home",
+      "Link": "https://www.google.com.br/"
+    },
+    {
+      "Name": "Nossa historia",
+      "Link": "https://www.google.com.br/"
+    },
+    {
+      "Name": "Rede",
+      "Link": "https://www.google.com.br/"
+    },
+    {
+      "Name": "Trabalhe conosco",
+      "Link": "https://www.google.com.br/"
+    },
+    {
+      "Name": "Menu",
+      "Link": "https://www.google.com.br/"
+    }
+  ],
+
+  "images": [
+    {
+      "Name": "1.jpg"
+    },
+    {
+      "Name": "2.jpg"
+    },
+    {
+      "Name": "3.jpg"
+    },
+    {
+      "Name": "4.jpg"
+    },
+    {
+      "Name": "5.jpg"
+    },
+    {
+      "Name": "6.jpg"
+    },
+    {
+      "Name": "7.jpg"
+    },
+    {
+      "Name": "8.jpg"
+    },
+    {
+      "Name": "9.jpg"
+    }
+  ]
+}
